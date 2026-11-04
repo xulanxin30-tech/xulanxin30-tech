@@ -2,7 +2,7 @@
 
 **Year-3 BSc (Hons) Computer Science @ HKMU** · Exploring **Data Science × New Media**
 
-**Bilingual README · 中英双语自述**
+**Bilingual README**
 
 ---
 
