@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=xulanxin30-tech&color=blueviolet&style=flat-square" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/xulanxin30-tech?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+# Hi there 👋 I'm Xu Lanxin · 徐兰欣
 
-<img width="100%" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+there+%F0%9F%91%8B+I%27m+Xu+Lanxin+%E5%BE%90%E5%85%B0%E6%AC%A3;Year-3+CS+Undergraduate+%40+HKMU;Exploring+Data+Science+%C3%97+New+Media" alt="Typing SVG" />
+**Year-3 BSc (Hons) Computer Science @ HKMU** · Exploring **Data Science × New Media**
 
 **Bilingual README · 中英双语自述**
 
@@ -98,34 +96,12 @@
 
 ## 🌟 Featured Projects · 精选项目
 
-<div align="center">
-  <a href="https://github.com/xulanxin30-tech/wesing-cocreate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xulanxin30-tech&repo=wesing-cocreate&hide_border=true&theme=default" alt="wesing-cocreate" />
-  </a>
-  <a href="https://github.com/xulanxin30-tech/COMP3500SEF-Group-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xulanxin30-tech&repo=COMP3500SEF-Group-Project&hide_border=true&theme=default" alt="COMP3500SEF-Group-Project" />
-  </a>
-</div>
-
 | Project 项目 | Type 类型 | Tech 技术 | My Role 我的角色 |
 | :--- | :--- | :--- | :--- |
 | [wesing-cocreate](https://github.com/xulanxin30-tech/wesing-cocreate) | TME AI Hackathon Demo · 黑客松作品 | HTML / CSS / JS | Developer · 开发者 |
 | [COMP3500SEF-Group-Project](https://github.com/xulanxin30-tech/COMP3500SEF-Group-Project) | Course Group Project · 课程小组项目 | TypeScript | Team Leader · 组长 |
 | [COMP3810SEF-G001-Project](https://github.com/xulanxin30-tech/COMP3810SEF-G001-Project) | Course Group Project · 课程小组项目 | JavaScript | Team Member · 组员 |
 | [COMP2090SEF-Group-Project](https://github.com/xulanxin30-tech/COMP2090SEF-Group-Project-Group-9) | Course Group Project · 课程小组项目 | Python | Team Leader · 组长 |
-
----
-
-## 📊 GitHub Stats · 数据统计
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xulanxin30-tech&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xulanxin30-tech&layout=compact&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xulanxin30-tech&hide_border=true" alt="GitHub streak" />
-</div>
 
 ---
 
