@@ -14,8 +14,8 @@
 
 ## 🙋 About Me · 关于我
 
-- 🎓 I'm **Xu Lanxin**, a **Year-3 undergraduate** at **Hong Kong Metropolitan University (HKMU)**.
-  我是 **Xu Lanxin**，香港都会大学大三本科生。
+- 🎓 I'm **Xu Lanxin**, a **Year-3 BSc (Hons) Computer Science** student at **Hong Kong Metropolitan University (HKMU)**.
+  我是 **Xu Lanxin**，香港都会大学**计算机科学荣誉理学士**大三本科生。
 - 🎯 Preparing for postgraduate applications in **Data Science / Computer Science** and **New Media** (Communication × Computing).
   正在准备研究生申请，方向为**数据科学 / 计算机**与**新媒体**（传播 × 计算机交叉领域）。
 - 👥 **Team leader** of multiple university group projects — experienced in teamwork, task allocation and project delivery.
@@ -66,6 +66,21 @@
 | [COMP3500SEF-Group-Project](https://github.com/xulanxin30-tech/COMP3500SEF-Group-Project) | Course Group Project · 课程小组项目 | TypeScript | Team Leader · 组长 |
 | [COMP3810SEF-G001-Project](https://github.com/xulanxin30-tech/COMP3810SEF-G001-Project) | Course Group Project · 课程小组项目 | JavaScript | Team Member · 组员 |
 | [COMP2090SEF-Group-Project](https://github.com/xulanxin30-tech/COMP2090SEF-Group-Project-Group-9) | Course Group Project · 课程小组项目 | Python | Team Leader · 组长 |
+
+---
+
+## 🏆 Awards & Campus Life · 荣誉与校园经历
+
+- 🎖️ **Awardee of the SPSS Talent Development Scholarship** (2024/25, HKMU) — self-nominated & school-nominated scholarship.
+  获香港都会大学 **SPSS 才能发展奖学金**（2024/25，个人自荐与学院提名）。
+- 📋 **Secretary of the HKMU Computing Society** (2025/26).
+  担任香港都会大学**电脑学会秘书**，负责学会日常事务与活动组织。
+- 💼 **Intern of the HKMU STEM Internship Scheme 2025**.
+  入选香港都会大学 **STEM 实习计划 2025**。
+- 🤖 Attended the **AI-Powered Market Analysis & Marketing for Entrepreneurs Workshop** and Greater Bay Area youth entrepreneurship programmes.
+  参与 **AI 市场分析与创业营销工作坊**及大湾区青年就业创业系列活动。
+- 🧠 Completed **Mental Health First Aid** training and a series of career & communication workshops.
+  完成**精神健康急救课程**及多场职业发展、沟通表达工作坊。
 
 ---
 
