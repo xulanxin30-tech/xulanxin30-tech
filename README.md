@@ -57,7 +57,7 @@
 | **2024/25** | 🎖️ **Talent Development Scholarship**, Self-financing Post-secondary Scholarship Scheme (SPSS)<br/>自资专上奖学金计划 · **才艺发展奖学金** | **Education Bureau, HKSAR Government**<br/>香港特区政府教育局 |
 | **2025** | 🥇 **First Prize**, 6th National College Student Career Development Competition<br/>第六届全国大学生职业发展大赛 · **一等奖** | 中国商业经济学会教育培训分会 |
 | **2025** | 🥇 **First Prize**, 8th "Visionary Cup" National Innovation & Employment Competition<br/>第八届「远见者杯」全国大学生创新促进就业大赛 · **一等奖** | 中国联合国采购促进会 |
-| **2025** | 🥇 **First Prize** (Provincial), 5th National Ecological Environment Restoration & Science Popularization Competition<br/>第五届大学生生态环境修复与科普竞赛（省赛）· **一等奖** | 中国环境科学学会等联合主办 |
+| **2025** | 🥇 **First Prize** (Provincial), 5th National Ecological Environment Restoration & Science Popularization Competition<br/>第五届大学生生态环境修复与科普竞赛（省赛）· **一等奖** | 多所高校与学会联合主办 |
 | **2025** | 🥈 **Second Prize**, National Software & IT Science Popularization Competition<br/>全国大学生软件与信息技术科普大赛 · **二等奖** | 省级信息宣传协会 |
 
 ---
